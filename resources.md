@@ -65,7 +65,7 @@ We’re Making the Wrong Case for Diversity in Silicon Valley, Harward Business 
 [A Community Resource](https://docs.google.com/spreadsheets/d/15gg-BnOmN0l76MfJoq3wlHb1XiBnWZyjCNO6KXLrK0Q/edit#gid=0, "A Community Resourdce")
 
 * **Action Guide**
-[Race Equity and Inclusion Action Guide](http://www.aecf.org/m/resourcedoc/AECF_EmbracingEquity7Steps-2014.pdf, "Race Equity and Inclusion Action Guide (link to a pdf file)"
+[Race Equity and Inclusion Action Guide](http://www.aecf.org/m/resourcedoc/AECF_EmbracingEquity7Steps-2014.pdf, "Race Equity and Inclusion Action Guide (link to a pdf file)")
 
 * **Racial Equity Tools**:
 [Racial Equity Tools](https://www.racialequitytools.org/home, "Racial Equity Tools")
