@@ -10,12 +10,12 @@ The Drupal Diversity Working Group (DDWG) is currently working on the following 
    * <a href="https://github.com/drupaldiversity/event-organizer-packet">Organizer Packet</a> A resource for organizers to help them organize and support diverse and inclusive events
 
    * <a href="https://github.com/drupaldiversity/administration/issues">Infrastructural improvements</a> to the DDWG website & online presence
-   
+
    * BOF (Birds of a Feather) sessions at Drupalcon Baltimore that will embrace and represent the interests and identities of Drupal community members.
 
 ### Get Involved
 
-We welcome contributors in all forms - programmers, content managers, project support staff.  However you identify as a contributor and as part of the Drupal community, there is a place for you to get involved here.
+We welcome all types of contributors - programmers, content managers, project support staff, and more.  However you identify as a contributor and as part of the Drupal community, there is a place for you to get involved here.
 
 
 #### Getting started
