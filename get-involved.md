@@ -35,3 +35,8 @@ You can see our calendar for
   - Google: for google calendar users, you can "Add another calendar" and provide this address <em><a href="mailto:c0ovgjsi6p70huaunbe2a3mpj8@group.calendar.google.com">c0ovgjsi6p70huaunbe2a3mpj8@group.calendar.google.com</a></em>
 
   <iframe src="https://calendar.google.com/calendar/embed?src=c0ovgjsi6p70huaunbe2a3mpj8%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+#### Contributor Code of Conduct
+As we advocate for the Drupal community to be diverse and inclusive, we are aware that as a working group, we must also work to be inclusive, respectful and diverse.  We've adopted the <a href="http://contributor-covenant.org/version/1/4/">contributor code of conduct</a> created by Contributor Convenant.
+
+(You can review the discussion that lead to this decision <a href="https://github.com/drupaldiversity/administration/issues/13">here</a>)
