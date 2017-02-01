@@ -62,19 +62,19 @@ We’re Making the Wrong Case for Diversity in Silicon Valley, Harward Business 
 ## What can I do?
 
 * **Where to Recruit Founders of Diverse Backgrounds**
-[A Community Resource](https://docs.google.com/spreadsheets/d/15gg-BnOmN0l76MfJoq3wlHb1XiBnWZyjCNO6KXLrK0Q/edit#gid=0, "A Community Resourdce")
+[A Community Resource](https://docs.google.com/spreadsheets/d/15gg-BnOmN0l76MfJoq3wlHb1XiBnWZyjCNO6KXLrK0Q/edit#gid=0 "A Community Resource")
 
 * **Action Guide**
-[Race Equity and Inclusion Action Guide](http://www.aecf.org/m/resourcedoc/AECF_EmbracingEquity7Steps-2014.pdf, "Race Equity and Inclusion Action Guide (link to a pdf file)")
+[Race Equity and Inclusion Action Guide](http://www.aecf.org/m/resourcedoc/AECF_EmbracingEquity7Steps-2014.pdf "Race Equity and Inclusion Action Guide (link to a pdf file)")
 
 * **Racial Equity Tools**:
-[Racial Equity Tools](https://www.racialequitytools.org/home, "Racial Equity Tools")
+[Racial Equity Tools](https://www.racialequitytools.org/home "Racial Equity Tools")
 
 * **Managing Unconscious Bias**: 
-[Managing Unconscious Bias](https://managingbias.fb.com/, "Managing Unconscious Bias, Facebook")
+[Managing Unconscious Bias](https://managingbias.fb.com/ "Managing Unconscious Bias, Facebook")
 
 * **Social Justice Phrase Guide**:
-[The Social Justice Phrase Guide, Advancement Project andThe Opportunity Agenda](https://opportunityagenda.org/files/field_file/SJPhraseGuide15_0.pdf, "The Social Justice Phrase Guide, Advancement Project andThe Opportunity Agenda")
+[The Social Justice Phrase Guide, Advancement Project andThe Opportunity Agenda](https://opportunityagenda.org/files/field_file/SJPhraseGuide15_0.pdf "The Social Justice Phrase Guide, Advancement Project and The Opportunity Agenda")
 
 * **Etsy CTO: Prioritizing Diversity in Our Hiring Fielded Better Women ... and Men** (article & video) [Etsy CTO: Prioritizing Diversity in Our Hiring Fielded Better Women ... and Men, Etsy.com, Rebecca J. Rosen,  Feb 7, 2013](http://www.theatlantic.com/technology/archive/2013/02/etsy-cto-prioritizing-diversity-in-our-hiring-fielded-better-women-and-men/272969/ "Etsy CTO: Prioritizing Diversity in Our Hiring Fielded Better Women ... and Men, Etsy.com, Rebecca J. Rosen,  Feb 7, 2013")
 
