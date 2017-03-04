@@ -21,14 +21,24 @@ description: > # this means to ignore newlines until "baseurl:"
   not affiliated with the Drupal Association.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter:
+  username: drupaldiversity
 twitter_username: drupaldiversity
 github_username:  drupaldiversity
+logo: /assets/drupaldiversity_logo_300.png
+
+social:
+  name: Drupal Diversity
+  links:
+    - https://github.com/drupaldiversity
+    - https://twitter.com/drupaldiversity
 
 # Build settings
 markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
