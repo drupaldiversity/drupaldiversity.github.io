@@ -8,6 +8,16 @@
   width:         calc(65% - (#{$spacing-unit} / 2));
 }
 .main_logo {
-  height: 30px;
-  width: 30px;
+  height: 50px;
+  width: 50px;
+  float: left;
+}
+
+.site-title {
+  font-size: 2.4em;
+  &:hover {
+    color: $grey-color-mid;
+    border-bottom: none;
+    text-decoration: none;
+  }
 }
