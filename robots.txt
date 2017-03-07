@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: drupaldiversity.github.io/sitemap.xml
