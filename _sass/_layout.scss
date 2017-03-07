@@ -1,3 +1,18 @@
+.header-col-1 {
+  width: -webkit-calc(15% - (#{$spacing-unit} / 2));
+  width:         calc(15% - (#{$spacing-unit} / 2));
+  display: inline-block;
+}
+.header-col-2 {
+  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+  width:         calc(20% - (#{$spacing-unit} / 2));
+  display: inline-block;
+}
+.header-col-3 {
+  width: -webkit-calc(65% - (#{$spacing-unit} / 2));
+  width:         calc(65% - (#{$spacing-unit} / 2));
+  display: inline-block;
+}
 .footer-col-1 {
   width: -webkit-calc(35% - (#{$spacing-unit} / 2));
   width:         calc(35% - (#{$spacing-unit} / 2));
@@ -8,13 +23,14 @@
   width:         calc(65% - (#{$spacing-unit} / 2));
 }
 .main_logo {
-  height: 50px;
-  width: 50px;
-  float: left;
+  margin: auto;
+  display: block;
+  height: 3.4rem;
 }
 
 .site-title {
-  font-size: 2.4em;
+  font-size: 1.4em;
+  line-height: 1.3em;
   &:hover {
     color: $grey-color-mid;
     border-bottom: none;
