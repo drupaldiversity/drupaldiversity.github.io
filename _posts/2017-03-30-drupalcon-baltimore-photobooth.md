@@ -21,7 +21,7 @@ of approximately $750. With the cost of the printer, our total cost is about $91
 without your support.
 
 Our mission is important, and we are dedicated to engaging the community at DrupalCon this
-year. Your in-kind donation can be made via a purchase at this convenient Amazon wishlist, and,
+year. Your in-kind donation can be made via a purchase at [this convenient Amazon wishlist](https://www.amazon.com/gp/registry/ref=cm_reg_rd-upd?ie=UTF8&id=3UJNHW05BVHJ&type=wishlist), and,
 while not tax-deductible, is very much appreciated. We ask that any in-kind donations are placed
 by April 15.
 
