@@ -13,14 +13,68 @@
   width:         calc(65% - (#{$spacing-unit} / 2));
   display: inline-block;
 }
+.wrapper-col-1 {
+  width: -webkit-calc(66.667% - (#{$spacing-unit} / 2));
+  width:         calc(66.667% - (#{$spacing-unit} / 2));
+  float: left;
+}
+.wrapper-col-2 {
+  width: -webkit-calc(33.334% - (#{$spacing-unit} / 2));
+  width:         calc(33.334% - (#{$spacing-unit} / 2));
+  float: left;
+  margin: 10% 0;
+}
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(33.334% - (#{$spacing-unit} / 2));
+  width:         calc(33.334% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-  width: -webkit-calc(65% - (#{$spacing-unit} / 2));
-  width:         calc(65% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(66.667% - (#{$spacing-unit} / 2));
+  width:         calc(66.667% - (#{$spacing-unit} / 2));
+}
+.row:before, .row:after {
+  content: " ";
+  display: table;
+}
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+.row {
+  position: relative;
+  margin: 0 auto;
+  max-width: 73.75rem;
+  padding-bottom: 3%;
+  width: 100%;
+  min-height: 50px;
+}
+.column {
+  position: relative;
+  padding-left: 0.46875rem;
+  padding-right: 0.46875rem;
+  float: left;
+}
+.large-1 {
+  width: -webkit-calc(0.166666667% - (#{$spacing-unit} / 2));
+  width:         calc(0.166666667% - (#{$spacing-unit} / 2));
+}
+.large-1 {
+  width: -webkit-calc(0.08333334% - (#{$spacing-unit} / 2));
+  width:         calc(0.08333334% - (#{$spacing-unit} / 2));
+}
+.large-6 {
+  width: -webkit-calc(50.0% - (#{$spacing-unit} / 2));
+  width:         calc(50.0% - (#{$spacing-unit} / 2));
+}
+.large-12 {
+  width: -webkit-calc(96.0% - (#{$spacing-unit} / 2));
+  width:         calc(96.0% - (#{$spacing-unit} / 2));
+}
+@media screen and (max-width: 800px){
+  .small-12 {
+    width: -webkit-calc(100.0% - (#{$spacing-unit} / 2));
+    width:         calc(100.0% - (#{$spacing-unit} / 2));
+  }
 }
 .main_logo {
   margin: auto;
@@ -35,5 +89,20 @@
     color: $grey-color-mid;
     border-bottom: none;
     text-decoration: none;
+  }
+}
+#mc_embed_signup {
+  background: transparent;
+  clear:left;
+  .mc-field-group {
+    width: 100%;
+  }
+  .button {
+    background-color: #2a7ae2;
+    margin: 0 40%;
+    font: 1.35em Helvetica,Arial,sans-serif;
+    &:hover {
+      background-color: #1756a9
+    }
   }
 }
