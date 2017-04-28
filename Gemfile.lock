@@ -23,6 +23,7 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.1.0)
       jekyll (~> 3.3)
+    jekyll-twitter-plugin (2.0.0)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.12.0)
@@ -49,10 +50,11 @@ DEPENDENCIES
   jekyll (= 3.3.0)
   jekyll-feed (~> 0.6)
   jekyll-seo-tag
+  jekyll-twitter-plugin
   minima (~> 2.0)
 
 RUBY VERSION
-   ruby 2.3.3p222
+   ruby 2.0.0p648
 
 BUNDLED WITH
-   1.13.7
+   1.14.6
