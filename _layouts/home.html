@@ -26,6 +26,10 @@ layout: default
 
   <div class="wrapper-col-2">
     <p>{{ site.description | escape }}</p>
+
+    {% if site.twitter_username %}
+    {% twitter https://twitter.com/drupaldiversity maxwidth=325 height=400 limit=2 hide_media=true %}
+    {% endif %}
   </div>
 
 </div>

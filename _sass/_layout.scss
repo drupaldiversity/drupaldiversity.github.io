@@ -24,6 +24,17 @@
   float: left;
   margin: 10% 0;
 }
+.home {
+  .wrapper-col-1 {
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
+  }
+  .wrapper-col-2 {
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
+    margin: 0;
+  }
+}
 .footer-col-1 {
   width: -webkit-calc(33.334% - (#{$spacing-unit} / 2));
   width:         calc(33.334% - (#{$spacing-unit} / 2));
