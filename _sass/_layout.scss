@@ -1,3 +1,7 @@
+.wrapper {
+  max-width: -webkit-calc(800px - (30px * 2));
+  max-width: calc(1024px - (30px * 2));
+}
 .header-col-1 {
   width: -webkit-calc(15% - (#{$spacing-unit} / 2));
   width:         calc(15% - (#{$spacing-unit} / 2));
@@ -17,22 +21,35 @@
   width: -webkit-calc(66.667% - (#{$spacing-unit} / 2));
   width:         calc(66.667% - (#{$spacing-unit} / 2));
   float: left;
+  padding: 0 1% 0 1%
 }
 .wrapper-col-2 {
   width: -webkit-calc(33.334% - (#{$spacing-unit} / 2));
   width:         calc(33.334% - (#{$spacing-unit} / 2));
   float: left;
   margin: 10% 0;
+  padding: 0 1% 0 1%
 }
 .home {
   .wrapper-col-1 {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(66.667% - (#{$spacing-unit} / 2));
+    width:         calc(66.667% - (#{$spacing-unit} / 2));
+    @media screen and (max-width: 800px) {
+      width: -webkit-calc(100.00% - (#{$spacing-unit} / 2));
+      width:         calc(100.00% - (#{$spacing-unit} / 2));
+    }
   }
   .wrapper-col-2 {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(33.334% - (#{$spacing-unit} / 2));
+    width:         calc(33.334% - (#{$spacing-unit} / 2));
     margin: 0;
+    @media screen and (max-width: 800px) {
+      width: -webkit-calc(100.00% - (#{$spacing-unit} / 2));
+      width:         calc(100.00% - (#{$spacing-unit} / 2));
+      .jekyll-twitter-plugin {
+        margin: 10% 15% 0 15%;
+      }
+    }
   }
 }
 .footer-col-1 {
@@ -109,11 +126,22 @@
     width: 100%;
   }
   .button {
-    background-color: #2a7ae2;
+    background-color: #39b5f1;
     margin: 0 40%;
     font: 1.35em Helvetica,Arial,sans-serif;
     &:hover {
       background-color: #1756a9
     }
   }
+}
+.site-description {
+  font-size: 1.25em;
+  font-weight: 500;
+  border-radius: 5px;
+  background-color: #39b5f1;
+  padding: 3%;
+  text-align: center;
+}
+.timeline-Tweet {
+  background-color: #f9f9f9;
 }
