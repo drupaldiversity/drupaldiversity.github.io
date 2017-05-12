@@ -27,10 +27,13 @@
   <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
   <meta name="contact" content="drupaldiversity@gmail.com" />
-
+ 
   {% seo %}
 
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
   {% endif %}
+
+  {% feed_meta %}
+
 </head>
