@@ -24,6 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
   username: drupaldiversity
 twitter_username: drupaldiversity
+twitter_url: https://twitter.com/drupaldiversity
 github_username:  drupaldiversity
 logo: /assets/drupaldiversity_logo_300.png
 
@@ -39,6 +40,7 @@ theme: minima
 gems:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-twitter-plugin
 exclude:
   - Gemfile
   - Gemfile.lock
