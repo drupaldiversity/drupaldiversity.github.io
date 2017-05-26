@@ -2,6 +2,7 @@
 layout: post
 title:  "2016 in review"
 date:   2016-12-20 11:03:52 -0700
+author: drnikki
 ---
 The Drupal Diversity working group was established in June 2016 after DrupalCon New Orleans.  We began meeting regularly and in our ~6 months of activity, we have:
 
