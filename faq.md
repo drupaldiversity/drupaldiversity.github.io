@@ -35,7 +35,7 @@ We posted an Amazon Wishlist and organization(s) bought items from it.  We have 
 We're a collective of volunteers who started a grass-roots efforts to build a truly diverse and inclusive Drupal Community.
 
 - _Who speaks for the group?_
-No one. All text that appears on the website is crowd-sourced. [Our twitter account](twitter.com/drupaldiversity "Our twitter account") is run by @Ruby, but her goal is to write objectively. Most of our tweets will be informative and we aim to avoid opinions or interpretations.
+No one. All text that appears on the website is crowd-sourced. [Our twitter account](https://twitter.com/drupaldiversity "Our twitter account") is run by @Ruby, but her goal is to write objectively. Most of our tweets will be informative and we aim to avoid opinions or interpretations.
 
 - _"I saw @username say 'controversial thing' on twitter. Does DD&I believe the same thing?"_
 We're made up of individuals who have their own opinions.  All of them are free to speak their minds in every venue in which they participate.
