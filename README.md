@@ -13,6 +13,8 @@ When adding documents, be sure to use [GitHub Flavored Markdown](https://guides.
 - justafish
 - sugaroverflow
 - zombree
+- mlhess
+- rgoodine
 
 ### Editing
 
