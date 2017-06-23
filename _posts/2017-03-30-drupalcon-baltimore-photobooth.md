@@ -4,6 +4,7 @@ title: Drupalcon Baltimore Photo Booth
 date:   2017-03-29 11:03:52 -0700
 published: true
 category: drupalcon
+author: drnikki
 ---
 
 This year at DrupalCon, the Drupal Diversity & Inclusion Working Group will have a booth in the

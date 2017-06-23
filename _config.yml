@@ -27,6 +27,7 @@ twitter_username: drupaldiversity
 twitter_url: https://twitter.com/drupaldiversity
 github_username:  drupaldiversity
 logo: /assets/drupaldiversity_logo_300.png
+author: drupaldiversity
 
 social:
   name: Drupal Diversity
