@@ -4,14 +4,17 @@ title: Initiatives & Get Involved
 permalink: /get-involved/
 ---
 
-### Initiatives
+### Current Initiatives
 The Drupal Diversity Working Group (DDWG) is currently working on the following projects:
 
    * <a href="https://github.com/drupaldiversity/event-organizer-packet">Organizer Packet</a> A resource for organizers to help them organize and support diverse and inclusive events
 
    * <a href="https://github.com/drupaldiversity/administration/issues">Infrastructural improvements</a> to the DDWG website & online presence
 
-   * BOF (Birds of a Feather) sessions at Drupalcon Baltimore that will embrace and represent the interests and identities of Drupal community members.
+### Past Initiatives
+
+   * Organized BOF (Birds of a Feather) sessions at Drupalcon Baltimore that embraced and represented the interests and identities of Drupal community members.
+   * Ran a <a href="https://twitter.com/hashtag/WeAreDrupal?src=hash">#WeAreDrupal</a> photo booth during DrupalCon Baltimore.
 
 ### Get Involved
 
