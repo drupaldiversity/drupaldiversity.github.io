@@ -20,8 +20,9 @@ Decades of research by organizational scientists, psychologists, sociologists, e
 
 * **On Meritocracy**
 [On Meritocracy, by Glenn Gillen, 30 November 2013](http://glenngillen.com/thoughts/on-meritocracy "On Meritocracy, by Glenn Gillen, 30 November 2013")
+
 * **The Loneliness Of The Female Coder**
-[The Loneliness Of The Female Coder, Ciara Byrne, 09.11.13](http://www.fastcompany.com/3008216/tracking/minding-gap-how-your-company-can-woo-female-coders "The Loneliness Of The Female Coder, Ciara Byrne, 09.11.13"
+[The Loneliness Of The Female Coder, Ciara Byrne, 09.11.13](http://www.fastcompany.com/3008216/tracking/minding-gap-how-your-company-can-woo-female-coders "The Loneliness Of The Female Coder, Ciara Byrne, 09.11.13")
 
 * **Women considered better coders – but only if they hide their gender**
 Researchers find software repository GitHub approved code written by women at a higher rate than code written by men, but only if the gender was not disclosed
@@ -37,7 +38,7 @@ Researchers find software repository GitHub approved code written by women at a 
 [Why diversity matters, McKinsey.com, by Vivian Hunt, 2015](http://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters "Why diversity matters, McKinsey.com, by Vivian Hunt, 2015")
 
 * **We’re Making the Wrong Case for Diversity in Silicon Valley**
-We’re Making the Wrong Case for Diversity in Silicon Valley, Harward Business Review, by Todd L. Pittinsky, April 11 2016](https://hbr.org/2016/04/were-making-the-wrong-case-for-diversity-in-silicon-valley "We’re Making the Wrong Case for Diversity in Silicon Valley, Harward Business Review, by Todd L. Pittinsky, April 11 2016")
+[We’re Making the Wrong Case for Diversity in Silicon Valley, Harward Business Review, by Todd L. Pittinsky, April 11 2016](https://hbr.org/2016/04/were-making-the-wrong-case-for-diversity-in-silicon-valley "We’re Making the Wrong Case for Diversity in Silicon Valley, Harward Business Review, by Todd L. Pittinsky, April 11 2016")
 
 ## Illustrating and talking about it
 
