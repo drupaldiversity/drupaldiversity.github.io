@@ -138,10 +138,46 @@
   font-size: 1.25em;
   font-weight: 500;
   border-radius: 5px;
-  background-color: #39B5F2;
+  background-color: #f0f0f0;
   padding: 3%;
   text-align: center;
+  border: #39B5FC solid 0.25px;
+  box-shadow: 4px 4px 2px #39B5FC;
 }
 .timeline-Tweet {
   background-color: #f9f9f9;
+}
+.site-footer .feedback a {
+  color: #ffffff;
+  font: 1.35em Helvetica,Arial,sans-serif;
+  line-height: 1.50em;
+
+  &:visited {
+    color: #ffffff;
+  }
+}
+.button {
+  box-sizing: border-box;
+  clear:both;
+  background-color: #39B5F2;
+  border: 0 none;
+  border-radius:4px;
+  transition: all 0.23s ease-in-out 0s;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-size:15px;
+  font-weight: normal;
+  height: 32px;
+  line-height: 32px;
+  margin: 0 15%;
+  padding: 0 22px;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: top;
+  white-space: nowrap;
+  width: auto;
+}
+.button:hover {
+  background-color:#1756a9;
 }
