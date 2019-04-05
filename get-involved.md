@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Initiatives & Get Involved
+redirect_to: https://www.drupaldiversity.com/get-involved
 permalink: /get-involved/
 ---
 

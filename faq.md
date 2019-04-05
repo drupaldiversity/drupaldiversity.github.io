@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ
+redirect_to: https://www.drupaldiversity.com/faq/
 permalink: /faq/
 ---
 

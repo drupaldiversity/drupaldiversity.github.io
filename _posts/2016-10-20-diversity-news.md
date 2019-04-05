@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Diversity in the news
+redirect_to: https://www.drupaldiversity.com/blog/2016/diversity-news
 date:   2016-10-20 11:03:52 -0700
 category: diversity-in-the-news
 author: drupaldiversity
