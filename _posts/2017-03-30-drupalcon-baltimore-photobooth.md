@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Drupalcon Baltimore Photo Booth
+redirect_to: https://www.drupaldiversity.com/blog/2017/drupalcon-baltimore-photo-booth
 date:   2017-03-29 11:03:52 -0700
 published: true
 category: drupalcon

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources
+redirect_to: https://www.drupaldiversity.com/resources
 permalink: /resources/
 ---
 
@@ -28,13 +29,13 @@ Decades of research by organizational scientists, psychologists, sociologists, e
 Researchers find software repository GitHub approved code written by women at a higher rate than code written by men, but only if the gender was not disclosed
 [Women considered better coders – but only if they hide their gender, The Guardian, by Julia Carrie Wong, 12 February 2016](https://www.theguardian.com/technology/2016/feb/12/women-considered-better-coders-hide-gender-github "Women considered better coders – but only if they hide their gender, The Guardian, by Julia Carrie Wong, 12 February 2016")
 
-* **How Diversity Can Drive Innovation** 
+* **How Diversity Can Drive Innovation**
 [How Diversity Can Drive Innovation, Harvard Business Review, by Sylvia Ann Hewlett, Melinda Marshall and Laura Sherbin, The December 2013 Issue](https://hbr.org/2013/12/how-diversity-can-drive-innovation "How Diversity Can Drive Innovation, Harvard Business Review, by Sylvia Ann Hewlett, Melinda Marshall and Laura Sherbin, The December 2013 Issue")
 
-* **Why Gender-Diverse Work Teams Are The Most Productive -- And Profitable** 
+* **Why Gender-Diverse Work Teams Are The Most Productive -- And Profitable**
 [Why Gender-Diverse Work Teams Are The Most Productive -- And Profitable, The Forbes, by Panos Mourdoukoutas, Dec 21 2016](http://www.forbes.com/sites/learnvest/2014/12/22/why-gender-diverse-work-teams-are-the-most-productive-and-profitable/ "Why Gender-Diverse Work Teams Are The Most Productive -- And Profitable, The Forbes, by Panos Mourdoukoutas, Dec 21 2016")
 
-* **Why diversity matters** 
+* **Why diversity matters**
 [Why diversity matters, McKinsey.com, by Vivian Hunt, 2015](http://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters "Why diversity matters, McKinsey.com, by Vivian Hunt, 2015")
 
 * **We’re Making the Wrong Case for Diversity in Silicon Valley**
@@ -42,7 +43,7 @@ Researchers find software repository GitHub approved code written by women at a 
 
 ## Illustrating and talking about it
 
-* **Buffer Diversity Dashboard**: 
+* **Buffer Diversity Dashboard**:
 [Diversity Dashboard 2.0, Buffer](http://diversity.buffer.com "Diversity Dashboard 2.0, Buffer")
 
 * **Diversity and Inclusion: An update on our data | Slack**
@@ -71,7 +72,7 @@ Researchers find software repository GitHub approved code written by women at a 
 * **Racial Equity Tools**:
 [Racial Equity Tools](https://www.racialequitytools.org/home "Racial Equity Tools")
 
-* **Managing Unconscious Bias**: 
+* **Managing Unconscious Bias**:
 [Managing Unconscious Bias](https://managingbias.fb.com/ "Managing Unconscious Bias, Facebook")
 
 * **Social Justice Phrase Guide**:
@@ -82,5 +83,5 @@ Researchers find software repository GitHub approved code written by women at a 
 * **Books to Help You Understand Your Biases and the Lived Experiences of People**
 [The 101-Level Reader: Books to Help You Better Understand Your Biases and the Lived Experiences of People, Ashe Dryden (long list of resources)](https://www.ashedryden.com/blog/the-101level-reader-books-to-help-you-better-understand-your-biases-and-the-lived-experiences "The 101-Level Reader: Books to Help You Better Understand Your Biases and the Lived Experiences of People, Ashe Dryden (long list of resources)")
 
-* **Project Include**: 
+* **Project Include**:
 [Project Include](http://projectinclude.org "Project Include")

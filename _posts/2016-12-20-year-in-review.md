@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "2016 in review"
+redirect_to: https://www.drupaldiversity.com/blog/2016/2016-year-review
 date:   2016-12-20 11:03:52 -0700
 author: drnikki
 ---

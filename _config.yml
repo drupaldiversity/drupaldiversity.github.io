@@ -35,11 +35,15 @@ social:
     - https://github.com/drupaldiversity
     - https://twitter.com/drupaldiversity
 
+plugins:
+  - jekyll-redirect-from
+
 # Build settings
 markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-twitter-plugin
 exclude:

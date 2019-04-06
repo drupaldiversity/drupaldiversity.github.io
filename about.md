@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+redirect_to: https://www.drupaldiversity.com/about
 permalink: /about/
 ---
 
